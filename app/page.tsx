@@ -89,7 +89,7 @@ export default function Home() {
     <div className="min-h-screen bg-gray-50 px-4 py-8 md:px-6 md:py-16">
       <main className="w-full max-w-2xl mx-auto">
         <h1 className="text-3xl md:text-4xl font-semibold text-center mb-12 md:mb-16 text-gray-900 tracking-tight">
-          나의 AI 가계부
+          나의 스마트 가계부
         </h1>
 
         {/* Input Form */}
